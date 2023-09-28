@@ -4,4 +4,4 @@ console.log(__filename);
 console.log(module);
 console.log(require);
 
-console.log(process);
+console.log(proces);
